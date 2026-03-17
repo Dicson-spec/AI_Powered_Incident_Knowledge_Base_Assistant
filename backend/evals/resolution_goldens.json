@@ -1,0 +1,44 @@
+[
+  {
+    "id": "disk-space-alert",
+    "query": "Uploads are failing because the media server is out of space. What is the most likely fix?",
+    "expected_output": "Archive old media files and expand storage volume",
+    "expected_solution_in_sources": "Archive old media files and expand storage volume"
+  },
+  {
+    "id": "slow-delivery",
+    "query": "Media content is loading very slowly for users and delivery feels delayed. How should support resolve it?",
+    "expected_output": "Refresh CDN cache and optimize media compression",
+    "expected_solution_in_sources": "Refresh CDN cache and optimize media compression"
+  },
+  {
+    "id": "encoding-crash",
+    "query": "The encoder keeps crashing during media conversion jobs. What should we do to fix it?",
+    "expected_output": "Restart encoder service and update codec library",
+    "expected_solution_in_sources": "Restart encoder service and update codec library"
+  },
+  {
+    "id": "unauthorized-access-attempt",
+    "query": "We detected repeated failed login attempts and suspect an unauthorized access attempt. What response should we take?",
+    "expected_output": "Block IP and enforce multi-factor authentication",
+    "expected_solution_in_sources": "Block IP and enforce multi-factor authentication"
+  },
+  {
+    "id": "high-cpu-usage",
+    "query": "The processing service is consuming too much CPU and performance is degrading. What is the likely fix?",
+    "expected_output": "Optimize processing parameters and restart service",
+    "expected_solution_in_sources": "Optimize processing parameters and restart service"
+  },
+  {
+    "id": "database-timeout",
+    "query": "Queries are timing out during peak usage. What remediation should we recommend?",
+    "expected_output": "Add indexes and optimize query performance",
+    "expected_solution_in_sources": "Add indexes and optimize query performance"
+  },
+  {
+    "id": "streaming-failure",
+    "query": "A live video stream stopped responding during broadcast. What should support try first?",
+    "expected_output": "Restart streaming service and reset network interface",
+    "expected_solution_in_sources": "Restart streaming service and reset network interface"
+  }
+]

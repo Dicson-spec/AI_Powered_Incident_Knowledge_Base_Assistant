@@ -1,0 +1,151 @@
+Media Asset,Category,Ticket ID,Incident ID,Incident Details,Description,Solution
+MediaServer01,Storage,TKT-1001,INC-5001,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer02,Application,TKT-1002,INC-5002,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer03,Security,TKT-1003,INC-5003,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer04,Performance,TKT-1004,INC-5004,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer05,Database,TKT-1005,INC-5005,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer06,Hardware,TKT-1006,INC-5006,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer07,Network,TKT-1007,INC-5007,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer08,Storage,TKT-1008,INC-5008,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer09,Application,TKT-1009,INC-5009,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer10,Security,TKT-1010,INC-5010,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer11,Performance,TKT-1011,INC-5011,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer12,Database,TKT-1012,INC-5012,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer13,Hardware,TKT-1013,INC-5013,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer14,Network,TKT-1014,INC-5014,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer15,Storage,TKT-1015,INC-5015,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer16,Application,TKT-1016,INC-5016,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer17,Security,TKT-1017,INC-5017,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer18,Performance,TKT-1018,INC-5018,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer19,Database,TKT-1019,INC-5019,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer20,Hardware,TKT-1020,INC-5020,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer21,Network,TKT-1021,INC-5021,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer22,Storage,TKT-1022,INC-5022,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer23,Application,TKT-1023,INC-5023,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer24,Security,TKT-1024,INC-5024,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer25,Performance,TKT-1025,INC-5025,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer26,Database,TKT-1026,INC-5026,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer27,Hardware,TKT-1027,INC-5027,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer28,Network,TKT-1028,INC-5028,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer29,Storage,TKT-1029,INC-5029,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer30,Application,TKT-1030,INC-5030,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer31,Security,TKT-1031,INC-5031,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer32,Performance,TKT-1032,INC-5032,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer33,Database,TKT-1033,INC-5033,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer34,Hardware,TKT-1034,INC-5034,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer35,Network,TKT-1035,INC-5035,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer36,Storage,TKT-1036,INC-5036,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer37,Application,TKT-1037,INC-5037,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer38,Security,TKT-1038,INC-5038,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer39,Performance,TKT-1039,INC-5039,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer40,Database,TKT-1040,INC-5040,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer41,Hardware,TKT-1041,INC-5041,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer42,Network,TKT-1042,INC-5042,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer43,Storage,TKT-1043,INC-5043,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer44,Application,TKT-1044,INC-5044,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer45,Security,TKT-1045,INC-5045,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer46,Performance,TKT-1046,INC-5046,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer47,Database,TKT-1047,INC-5047,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer48,Hardware,TKT-1048,INC-5048,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer49,Network,TKT-1049,INC-5049,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer50,Storage,TKT-1050,INC-5050,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer51,Application,TKT-1051,INC-5051,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer52,Security,TKT-1052,INC-5052,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer53,Performance,TKT-1053,INC-5053,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer54,Database,TKT-1054,INC-5054,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer55,Hardware,TKT-1055,INC-5055,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer56,Network,TKT-1056,INC-5056,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer57,Storage,TKT-1057,INC-5057,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer58,Application,TKT-1058,INC-5058,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer59,Security,TKT-1059,INC-5059,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer60,Performance,TKT-1060,INC-5060,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer61,Database,TKT-1061,INC-5061,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer62,Hardware,TKT-1062,INC-5062,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer63,Network,TKT-1063,INC-5063,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer64,Storage,TKT-1064,INC-5064,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer65,Application,TKT-1065,INC-5065,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer66,Security,TKT-1066,INC-5066,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer67,Performance,TKT-1067,INC-5067,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer68,Database,TKT-1068,INC-5068,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer69,Hardware,TKT-1069,INC-5069,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer70,Network,TKT-1070,INC-5070,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer71,Storage,TKT-1071,INC-5071,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer72,Application,TKT-1072,INC-5072,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer73,Security,TKT-1073,INC-5073,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer74,Performance,TKT-1074,INC-5074,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer75,Database,TKT-1075,INC-5075,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer76,Hardware,TKT-1076,INC-5076,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer77,Network,TKT-1077,INC-5077,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer78,Storage,TKT-1078,INC-5078,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer79,Application,TKT-1079,INC-5079,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer80,Security,TKT-1080,INC-5080,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer81,Performance,TKT-1081,INC-5081,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer82,Database,TKT-1082,INC-5082,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer83,Hardware,TKT-1083,INC-5083,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer84,Network,TKT-1084,INC-5084,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer85,Storage,TKT-1085,INC-5085,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer86,Application,TKT-1086,INC-5086,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer87,Security,TKT-1087,INC-5087,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer88,Performance,TKT-1088,INC-5088,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer89,Database,TKT-1089,INC-5089,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer90,Hardware,TKT-1090,INC-5090,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer91,Network,TKT-1091,INC-5091,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer92,Storage,TKT-1092,INC-5092,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer93,Application,TKT-1093,INC-5093,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer94,Security,TKT-1094,INC-5094,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer95,Performance,TKT-1095,INC-5095,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer96,Database,TKT-1096,INC-5096,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer97,Hardware,TKT-1097,INC-5097,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer98,Network,TKT-1098,INC-5098,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer99,Storage,TKT-1099,INC-5099,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer100,Application,TKT-1100,INC-5100,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer101,Security,TKT-1101,INC-5101,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer102,Performance,TKT-1102,INC-5102,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer103,Database,TKT-1103,INC-5103,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer104,Hardware,TKT-1104,INC-5104,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer105,Network,TKT-1105,INC-5105,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer106,Storage,TKT-1106,INC-5106,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer107,Application,TKT-1107,INC-5107,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer108,Security,TKT-1108,INC-5108,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer109,Performance,TKT-1109,INC-5109,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer110,Database,TKT-1110,INC-5110,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer111,Hardware,TKT-1111,INC-5111,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer112,Network,TKT-1112,INC-5112,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer113,Storage,TKT-1113,INC-5113,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer114,Application,TKT-1114,INC-5114,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer115,Security,TKT-1115,INC-5115,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer116,Performance,TKT-1116,INC-5116,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer117,Database,TKT-1117,INC-5117,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer118,Hardware,TKT-1118,INC-5118,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer119,Network,TKT-1119,INC-5119,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer120,Storage,TKT-1120,INC-5120,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer121,Application,TKT-1121,INC-5121,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer122,Security,TKT-1122,INC-5122,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer123,Performance,TKT-1123,INC-5123,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer124,Database,TKT-1124,INC-5124,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer125,Hardware,TKT-1125,INC-5125,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer126,Network,TKT-1126,INC-5126,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer127,Storage,TKT-1127,INC-5127,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer128,Application,TKT-1128,INC-5128,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer129,Security,TKT-1129,INC-5129,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer130,Performance,TKT-1130,INC-5130,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer131,Database,TKT-1131,INC-5131,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer132,Hardware,TKT-1132,INC-5132,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer133,Network,TKT-1133,INC-5133,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer134,Storage,TKT-1134,INC-5134,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer135,Application,TKT-1135,INC-5135,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer136,Security,TKT-1136,INC-5136,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer137,Performance,TKT-1137,INC-5137,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer138,Database,TKT-1138,INC-5138,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer139,Hardware,TKT-1139,INC-5139,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer140,Network,TKT-1140,INC-5140,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer141,Storage,TKT-1141,INC-5141,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer142,Application,TKT-1142,INC-5142,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer143,Security,TKT-1143,INC-5143,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library
+MediaServer144,Performance,TKT-1144,INC-5144,Unauthorized Access Attempt,Multiple failed login attempts detected,Block IP and enforce multi-factor authentication
+MediaServer145,Database,TKT-1145,INC-5145,High CPU Usage,Processing service consuming excessive CPU,Optimize processing parameters and restart service
+MediaServer146,Hardware,TKT-1146,INC-5146,Database Timeout,Queries timing out during peak usage,Add indexes and optimize query performance
+MediaServer147,Network,TKT-1147,INC-5147,Streaming Failure,Video stream stopped responding for live broadcast,Restart streaming service and reset network interface
+MediaServer148,Storage,TKT-1148,INC-5148,Disk Space Alert,Storage exceeded threshold causing upload failures,Archive old media files and expand storage volume
+MediaServer149,Application,TKT-1149,INC-5149,Slow Delivery,Media loading slowly due to cache miss,Refresh CDN cache and optimize media compression
+MediaServer150,Security,TKT-1150,INC-5150,Encoding Crash,Encoder crashed during media conversion,Restart encoder service and update codec library

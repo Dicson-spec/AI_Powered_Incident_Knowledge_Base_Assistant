@@ -1,0 +1,127 @@
+Troubleshooting Step Validation Report
+Generated at: 2026-03-17T06:52:04.314051Z
+Judge model: gpt-4o-mini
+Resolution endpoint: http://127.0.0.1:8000/api/resolution
+Cases: 7
+Average score: 1.000
+Valid rate: 100.00%
+
+Case: disk-space-alert
+Score: 1.0
+Valid: True
+Feedback: The steps correctly identify the issue, check disk usage, and propose relevant fixes.
+Incident description:
+Uploads are failing because the media server is out of space. What is the most likely fix?
+Expected resolution:
+Archive old media files and expand storage volume
+Generated steps:
+1. **Likely issue**: The media server has exceeded its storage threshold, leading to upload failures.
+
+2. **What to check**: Verify the current disk space usage on the media server.
+
+3. **Recommended fix**: Archive old media files and consider expanding the storage volume.
+
+4. **Incident IDs used**: INC-5099, INC-5029, INC-5036, INC-5071.
+------------------------------------------------------------
+Case: slow-delivery
+Score: 1.0
+Valid: True
+Feedback: The steps accurately identify the likely issue, verify relevant aspects, and recommend the correct resolution.
+Incident description:
+Media content is loading very slowly for users and delivery feels delayed. How should support resolve it?
+Expected resolution:
+Refresh CDN cache and optimize media compression
+Generated steps:
+1. **Likely Issue:** Media loading slowly due to cache miss.
+
+2. **What to Check:** Verify the CDN cache status and analyze media compression settings for efficiency.
+
+3. **Recommended Fix:** Refresh the CDN cache and optimize media compression for faster delivery.
+
+4. **Incident IDs Used:** INC-5023, INC-5093, INC-5058, INC-5149.
+------------------------------------------------------------
+Case: encoding-crash
+Score: 1.0
+Valid: True
+Feedback: The troubleshooting steps correctly identify the likely issue, relevant checks, and the exact resolution needed.
+Incident description:
+The encoder keeps crashing during media conversion jobs. What should we do to fix it?
+Expected resolution:
+Restart encoder service and update codec library
+Generated steps:
+1. **Likely issue**: Encoder crashes during media conversion tasks.
+
+2. **What to check**: Ensure the encoder service is running and verify the codec library version for potential updates.
+
+3. **Recommended fix**: Restart the encoder service and update the codec library, as indicated in multiple incidents (INC-5059, INC-5031, INC-5003, INC-5038).
+
+4. **Incident IDs used**: INC-5059, INC-5031, INC-5003, INC-5038.
+------------------------------------------------------------
+Case: unauthorized-access-attempt
+Score: 1.0
+Valid: True
+Feedback: Steps correctly identify the issue, relevant checks, and provide a complete resolution.
+Incident description:
+We detected repeated failed login attempts and suspect an unauthorized access attempt. What response should we take?
+Expected resolution:
+Block IP and enforce multi-factor authentication
+Generated steps:
+1. **Likely Issue**: Unauthorized access attempts indicated by multiple failed login attempts.
+
+2. **What to Check**: Review log files to confirm the number and source of failed login attempts, and identify any unusual activity patterns.
+
+3. **Recommended Fix**: Block the IP address associated with the failed attempts and enforce multi-factor authentication to enhance security.
+
+4. **Incident IDs Used**: INC-5116, INC-5123, INC-5137, INC-5081.
+------------------------------------------------------------
+Case: high-cpu-usage
+Score: 1.0
+Valid: True
+Feedback: The steps correctly identify the issue, recommend relevant checks, and provide a complete resolution.
+Incident description:
+The processing service is consuming too much CPU and performance is degrading. What is the likely fix?
+Expected resolution:
+Optimize processing parameters and restart service
+Generated steps:
+1. **Likely issue**: The processing service is consuming excessive CPU, indicating possible inefficiencies in its configuration or workload.
+
+2. **What to check**: Review the processing parameters and current workload to identify any parameters that may be causing the high CPU usage.
+
+3. **Recommended fix**: Optimize processing parameters and then restart the service to alleviate the high CPU consumption.
+
+4. **Incident IDs used**: INC-5033, INC-5138, INC-5054, INC-5145.
+------------------------------------------------------------
+Case: database-timeout
+Score: 1.0
+Valid: True
+Feedback: The generated steps accurately identify the issue, recommend appropriate checks, and provide a clear remediation plan.
+Incident description:
+Queries are timing out during peak usage. What remediation should we recommend?
+Expected resolution:
+Add indexes and optimize query performance
+Generated steps:
+1. **Likely issue**: Queries timing out during peak usage, likely due to insufficient indexing or unoptimized queries.
+
+2. **What to check**: Review the current indexing strategy and analyze the slow-performing queries to identify opportunities for optimization.
+
+3. **Recommended fix**: Add indexes where necessary and optimize the query performance based on the analysis.
+
+4. **Incident IDs used**: INC-5118, INC-5062, INC-5041, INC-5076.
+------------------------------------------------------------
+Case: streaming-failure
+Score: 1.0
+Valid: True
+Feedback: The troubleshooting steps accurately identify the likely issue, relevant checks, and recommended fixes, aligning perfectly with the expected resolution.
+Incident description:
+A live video stream stopped responding during broadcast. What should support try first?
+Expected resolution:
+Restart streaming service and reset network interface
+Generated steps:
+1. **Likely issue**: The live video stream stopped responding, likely due to a streaming service or network issue.
+
+2. **What to check**: Verify the status of the streaming service and the network interface connected to the media server.
+
+3. **Recommended fix**: Restart the streaming service and reset the network interface.
+
+4. **Incident IDs used**: INC-5091, INC-5056, INC-5119, INC-5063.
+------------------------------------------------------------
