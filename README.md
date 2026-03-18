@@ -100,6 +100,29 @@ Then open the local URL shown in the terminal, usually `http://localhost:5173`.
 
 If Windows has trouble launching the Vite wrapper through `npm`, the scripts are configured to call Vite through `node` directly.
 
+## Latency Check
+
+With all microservices running, you can measure latency across the gateway and each service:
+
+```powershell
+.\backend\latency_check.ps1
+```
+
+To change the number of runs:
+
+```powershell
+$env:LATENCY_RUNS=20
+.\backend\latency_check.ps1
+```
+
+Optional tuning:
+
+```powershell
+$env:LATENCY_TIMEOUT_SEC=180
+$env:LATENCY_DELAY_MS=200
+.\backend\latency_check.ps1
+```
+
 ## API
 
 Gateway endpoints:
